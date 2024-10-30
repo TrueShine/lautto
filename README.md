@@ -1,0 +1,2 @@
+# lautto
+Auto Lotto
